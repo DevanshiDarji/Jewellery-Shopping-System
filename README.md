@@ -1,18 +1,4 @@
-Introduction:-
-Reminder And Notification extension used to send Reminder and Notification to system users like Birthday Reminder, Marriage Anniversary Reminder and Work Anniversary Reminder.
+It' s E-commerce Website for selling Jewelry online. You can find here different type of Jewelry products.
 
-
-Features:
-1) Send Email Notification and Display Desktop Notification in Notification Icon of SuiteCRM at Top Right Corner.
-2) Send Birthday, Marriage and Work Notification like before/after/Immediate/Now the particular Date of Event.
-3) Send Immediate Notification When Module Record is Created or Modified.
-4) Send Now Notification When Condition Matched.
-5) Able to Customize Default Templates.
-6) Able to Create New Templates for Birthday, Marriage, Work and Other types of Templates. 
-7) Once you Create a New Template for particular Category then it’ll be added in Default Templates of particular Category.
-8) Able to Add Module field’s All/Any Condition. If Condition matched then only Notification triggered.
-9) Able to Send Email Notification to All users of System, Selected User, Text & Email Type Field of Relate Module, Records owner or Individual Person of Module.
-10) If Status is Active of Reminder And Notification then only Notification Triggered.
-
-britsh airway
-singapur-10feb
+It is useful in the way that it makes an easier way to buy products online. Today most of the jewellery shop is useful for shopping site. The admin have lots of paper work and they are using desktop, spread sheet like MS Excel application to manage data in soft copy about user record. In this proposed jewellery System it will run in server and user can handle whole the registration activities. It has facilities to generate various types of reports (like pdf, excel) which are required by the management during event organizing. This application maintains the centralized database so that any changes done at a location reflects immediately. This is an online tool so more than one user can login into system and use the tool simultaneously. The aim of this application is to reduce the manual effort needed to manage transactions and historical data used in various gods owns. Also this application provides an interface to users to view the details about events. 
+s
